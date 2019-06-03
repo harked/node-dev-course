@@ -1,0 +1,22 @@
+{
+  "name": "harked-node-dev-course",
+  "version": "1.0.0",
+  "description": "Teach myself nodejs https://www.udemy.com/the-complete-nodejs-developer-course-2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harked/node-dev-course.git"
+  },
+  "author": "Randy Harkediansa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harked/node-dev-course/issues"
+  },
+  "homepage": "https://github.com/harked/node-dev-course#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
